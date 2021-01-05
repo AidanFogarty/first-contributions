@@ -1,6 +1,7 @@
 # Contributors
 
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
+- [Derry Bradley](https://github.com/derryb51)
 - [MrNNP](https://github.com/MrNNP)
 - [Hayden Sprinkle] (https://github.com/haydensprinkle)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
